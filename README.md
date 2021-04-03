@@ -9,4 +9,4 @@ Currently I'm focusing on the following topics
 
 [![Ohjurots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjurot&hide=contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjurot&theme=calm&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
-`All my software engineering skill are self-taught`
+`All my software engineering skills are self-taught`
