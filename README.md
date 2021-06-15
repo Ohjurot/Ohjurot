@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Profile
-My name is Ludwig Füchsl, I am 20 Years old and currently studying Electrical Engineering in Munich. In my free time I am mainly focusing on graphical programming 
+My name is Ludwig Füchsl, I am 21 Years old and currently studying Electrical Engineering in Munich. In my free time I am mainly focusing on graphical programming 
 
 Currently I'm focusing on the following topics
 - C++
