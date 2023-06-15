@@ -4,6 +4,6 @@ site_author: 'Ludwig Fuechsl'
 repo_name: 'mhausenblas/mkdocs-template'
 repo_url: 'https://github.com/ohjurot/ohjurot'
 nav:
-    - Home: index.md
+    - Home: README.md
 theme:
   name: 'material'
