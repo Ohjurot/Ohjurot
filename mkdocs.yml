@@ -1,7 +1,7 @@
 site_name: Ohjurot
-site_description: 'A docs test'
+site_description: 'Welcome to my GitHub'
 site_author: 'Ludwig Fuechsl'
-repo_name: 'mhausenblas/mkdocs-template'
+repo_name: 'Ohjurot/Ohjurot'
 repo_url: 'https://github.com/ohjurot/ohjurot'
 nav:
     - Home: index.md
