@@ -1,12 +1,12 @@
-### Welcome to my GitHub Profile
-My name is Ludwig Füchsl, I am 22 Years old and currently studying Electrical Engineering in Munich. In my free time I am mainly focusing on graphical programming 
+### Welcome to my GitHub profile
+My name is Ludwig Füchsl, I am 23 Years old and currently studying Electrical Engineering and Information Technology in Munich. 
 
-Currently I'm focusing on the following topics
-- C++
-- DevOps
-- DirectX 12
-- HLSL 
-- RayTracing
+At work, I write software tools for internal and external use in C++ and C#. In my free time, I do self-paced software engineering projects and YouTube videos. 
+I'm currently using the following technologies:
+- Programming Languages: C++ and Python (DevOps)
+- Technology that I'm interested in: Game Engines (Basic System Design, Scripting and Rendering)
+- The new fancy stuff that I'm working on: SDF Rendering, Inversion Of Control
+- Rendering Stack: C++, WinApi, D3D12, HLSL
 
 [![Ohjurots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjurot&hide=contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjurot&theme=calm&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
