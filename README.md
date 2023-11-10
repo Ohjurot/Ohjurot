@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile
-My name is Ludwig Füchsl, I am 23 Years old and currently studying Electrical Engineering and Information Technology in Munich. 
+My name is Ludwig Füchsl, I am 23 Years old and currently working as an Electrical Engineering at [Maurer Rides](https://maurer-rides.de/en) near Munich. 
 
-At work, I write software tools for internal and external use in C++ and C#. In my free time, I do self-paced software engineering projects and YouTube videos. 
+In my free time, I do self-paced software engineering projects: 
 I'm currently using the following technologies:
 - Programming Languages: C++ and Python (DevOps)
 - Technology that I'm interested in: Game Engines (Basic System Design, Scripting and Rendering)
