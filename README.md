@@ -8,6 +8,8 @@ I'm currently using the following technologies:
 - The new fancy stuff that I'm working on: SDF Rendering, Inversion Of Control
 - Rendering Stack: C++, WinApi, D3D12, HLSL
 
+
 [![Ohjurots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjurot&hide=contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjurot&theme=calm&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![CoderRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Ohjurot)](https://github.com/Ohjurot)
 
 I also produce YouTube video that you can watch here: https://youtube.com/@LotwigFusel
