@@ -1,11 +1,10 @@
 ### Welcome to my GitHub profile
-My name is Ludwig Füchsl, I am 24 Years old and currently working at [Maurer Rides](https://maurer-rides.de/en) near Munich. 
+My name is Ludwig Füchsl, I am 25 Years old and currently working at [Maurer Rides](https://maurer-rides.de/en) near Munich. 
 
 In my free time, I do self-paced software engineering projects: 
 I'm currently using the following technologies:
 - Programming Languages: C++ and Python (DevOps)
 - Technology that I'm interested in: Game Engines (Basic System Design, Scripting and Rendering), Web Development using C++ and classical CSS, JS on the frontend
-- The new fancy stuff that I'm working on: SDF Rendering, Inversion Of Control
 - Rendering Stack: C++, WinApi, D3D12, HLSL
 
 
